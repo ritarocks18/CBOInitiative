@@ -13,7 +13,7 @@ Run Ng build for building the angular code
 Publish the L10N database project on local SSMS on the L10NPortal database
 Build the project in VS
 Run using play button in VS
-# I am using READMe file.
+
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
 
